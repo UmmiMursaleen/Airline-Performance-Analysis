@@ -12,3 +12,5 @@ The insights suggest that improving online booking processes, WiFi quality, and 
 
 This dashboard demonstrates how data-driven insights can guide customer-focused strategies, helping airlines improve loyalty, increase satisfaction, and refine their service offerings.
 
+<img width="1175" height="759" alt="Overview" src="https://github.com/user-attachments/assets/4554d34f-144a-44da-a4eb-b771b84a6756" />
+<img width="1358" height="760" alt="Customer Experience" src="https://github.com/user-attachments/assets/d94a4061-91d3-47c2-9e94-2becc8cad360" />
